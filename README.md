@@ -16,6 +16,7 @@ This is a full-day workshop for developers who want to improve in handling legac
 
 ### 11:15 - 12:05 Slot 2: Golden Master
  - creates tests for following slots
+- if time is too short, we'll also use slot 3 to finish writing the tests and move every topic one slot
 
 ### 12:05 - 13:00 Slot 3: Subclass to test
 
@@ -23,15 +24,14 @@ This is a full-day workshop for developers who want to improve in handling legac
 
 ### 15:00 - 16:00 Slot 5: Refactor for extendability with TDD
 
-### 16:30 - 17:30 Slot 6 ?
+### 16:30 - 17:30 Slot 6 From nothing to system tests
 
-### 17:30 - 18:30 Slot 7 ?
+### 17:30 - 18:30 Slot 7 Participants choice / buffer-slot
 
 ### Retrospective
 
 ## Optional topics
 - extract method / variable
 - Mikado method
-- "from nothing to system tests", Adrian Bolboaca
 - "Fix a bug", Adrian Bolboaca
 - Applying to your own code or given codebase (different from ugly trivia game)
